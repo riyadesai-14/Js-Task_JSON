@@ -1,0 +1,9 @@
+1) Print SKU name of all the products
+2) find product which sku is a3 and print whole object
+3) filter products which have cost more then 100
+4) add new key in all the product (customSKU = sku)
+5) find the index of SKU = a2
+6) sort product list DESC by = extProductUpdatedAt
+7) count total qty of all the product using reduce
+8) add new price in all the products
+9) sum of all price of value
